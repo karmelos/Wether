@@ -1,12 +1,15 @@
-WeatherApp to prosta aplikacja pogodowa, która umożliwia użytkownikom sprawdzenie bieżącej pogody dla wybranej lokalizacji. Aplikacja wyświetla informacje o temperaturze, prędkości wiatru oraz opisie warunków pogodowych.
+## Opis
 
-Funkcje:
+To jest prosta aplikacja na platformę Android, która korzysta z zewnętrznego interfejsu API pogodowego do wyświetlania informacji o aktualnej pogodzie w wybranym mieście.
 
-Wyświetlanie Temperatury: Aplikacja pokazuje aktualną temperaturę w stopniach Celsjusza dla wybranej lokalizacji.![Zrzut ekranu 2024-06-11 190518](https://github.com/karmelos/Wether/assets/131821309/b67a89df-2f31-4aef-b6d3-a5abc9e1ee0e)
+## Funkcje
 
+- **Wyświetlanie Aktualnej Pogody**: Aplikacja pobiera i prezentuje użytkownikowi aktualne dane pogodowe w czytelny sposób, korzystając z zewnętrznego API.
+- **Wyszukiwanie Miasta**: Użytkownicy mogą wprowadzać nazwę miasta, aby sprawdzić prognozę pogody dla wybranego miejsca.
 
-Opis Pogody: Zapewnia krótki opis warunków pogodowych, aby użytkownicy mogli szybko zrozumieć aktualne warunki atmosferyczne.
+## Technologie Wykorzystane
 
-Wyszukiwanie Miasta: Użytkownicy mogą wpisać nazwę miasta w polu tekstowym, aby uzyskać informacje pogodowe dla danej lokalizacji.
+- **Android**: Aplikacja została stworzona z użyciem platformy Android.
+- **API Pogodowe**: Do pobierania aktualnych danych pogodowych aplikacja korzysta z zewnętrznego API pogodowego.
 
-Intuicyjny Interfejs: Prosty i intuicyjny interfejs użytkownika sprawia, że korzystanie z aplikacji jest łatwe i przyjemne.
+- ![Zrzut ekranu 2024-06-11 190518](https://github.com/karmelos/Wether/assets/131821309/fa240206-7db4-40c9-b1ba-b16e66f8779a)
